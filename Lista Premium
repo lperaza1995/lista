@@ -1,0 +1,481 @@
+#EXTM3U
+
+
+#EXTINF:-1 ,A&E HD
+
+http://190.131.247.82:8000/play/a0jm
+
+
+#EXTINF:-1 ,AMC HD
+
+http://190.131.247.82:8000/play/a06c
+
+
+#EXTINF:-1 ,AXN HD
+
+http://190.131.247.82:8000/play/a05m
+
+
+#EXTINF:-1 ,Animal Planet HD
+
+http://190.131.247.82:8000/play/a06m
+
+
+#EXTINF:-1 ,Cartoon Network HD
+
+http://190.131.247.82:8000/play/a06e
+
+
+#EXTINF:-1 ,Cartoonito
+
+http://190.131.247.82:8000/play/a0fw
+
+
+#EXTINF:-1 ,Cinecanal HD
+
+http://190.131.247.82:8000/play/a06b
+
+
+#EXTINF:-1 ,Cinemax
+
+http://190.131.247.82:8000/play/a0k8
+
+
+#EXTINF:-1 ,Comedy Central HD
+
+http://190.131.247.82:8000/play/a0ip
+
+
+#EXTINF:-1 ,DHE HD
+
+http://190.131.247.82:8000/play/a0ii
+
+
+#EXTINF:-1 ,De Pelicula
+
+http://190.131.247.82:8000/play/a0ga
+
+
+#EXTINF:-1 ,Discovery H&H HD
+
+http://190.131.247.82:8000/play/a0dm
+
+
+#EXTINF:-1 ,Discovery HD
+
+http://190.131.247.82:8000/play/a0fy
+
+
+#EXTINF:-1 ,Discovery Kids HD
+
+http://190.131.247.82:8000/play/a0g5
+
+
+#EXTINF:-1 ,Discovery Science
+
+http://190.131.247.82:8000/play/a0k6
+
+
+#EXTINF:-1 ,Discovery Turbo
+
+http://190.131.247.82:8000/play/a0hl
+
+
+#EXTINF:-1 ,Discovery World HD
+
+http://190.131.247.82:8000/play/a06a
+
+
+#EXTINF:-1 ,Disney HD
+
+http://190.131.247.82:8000/play/a0gr
+
+
+#EXTINF:-1 ,E! HD
+
+http://190.131.247.82:8000/play/a0ha
+
+
+#EXTINF:-1 ,ESPN 2 Latin
+
+http://177.93.43.85:4080/play/a03w/index.m3u8
+
+
+#EXTINF:-1 ,ESPN
+
+http://177.93.43.85:4080/play/a03x/index.m3u8
+
+
+#EXTINF:-1 ,ESPN 2 HD
+
+http://190.131.247.82:8000/play/a0jn
+
+
+#EXTINF:-1 ,ESPN 3 HD
+
+http://190.131.247.82:8000/play/a09f
+
+
+#EXTINF:-1 ,ESPN 4 HD
+
+http://190.131.247.82:8000/play/a0ds
+
+
+#EXTINF:-1 ,ESPN EXTRA HD
+
+http://190.131.247.82:8000/play/a06d
+
+
+#EXTINF:-1 ,ESPN HD
+
+http://190.131.247.82:8000/play/a062
+
+
+#EXTINF:-1 ,FOX Sports 2 HD
+
+http://190.131.247.82:8000/play/a0dt
+
+
+#EXTINF:-1 ,FX HD
+
+http://190.131.247.82:8000/play/a0dy
+
+
+#EXTINF:-1 ,Fox Sports 2
+
+http://190.131.247.82:8000/play/a022
+
+
+#EXTINF:-1 ,Fox Sports 3 HD
+
+http://190.131.247.82:8000/play/a09d
+
+
+#EXTINF:-1 ,Golden HD
+
+http://190.131.247.82:8000/play/a0h8
+
+
+#EXTINF:-1 ,HBO 2 HD
+
+http://190.131.247.82:8000/play/a06k
+
+
+#EXTINF:-1 ,HBO POP HD
+
+http://190.131.247.82:8000/play/a05q
+
+
+#EXTINF:-1 ,HOLA TV HD
+
+http://190.131.247.82:8000/play/a0im
+
+
+#EXTINF:-1 ,HTV
+
+http://190.131.247.82:8000/play/a0g8
+
+
+#EXTINF:-1 ,History 2 HD
+
+http://190.131.247.82:8000/play/a073
+
+
+#EXTINF:-1 ,History Channel HD
+
+http://190.131.247.82:8000/play/a05i
+
+
+#EXTINF:-1 ,Las Estrellas HD
+
+http://190.131.247.82:8000/play/a0ih
+
+
+#EXTINF:-1 ,Latina HD
+
+http://190.131.247.82:8000/play/a0jw
+
+
+#EXTINF:-1 ,MTV 00s
+
+http://190.131.247.82:8000/play/a0in
+
+
+#EXTINF:-1 ,MTV HD
+
+http://190.131.247.82:8000/play/a00t
+
+
+#EXTINF:-1 ,MTV LIVE HD
+
+http://190.131.247.82:8000/play/a0jq
+
+
+#EXTINF:-1 ,Nat Geo HD
+
+http://190.131.247.82:8000/play/a066
+
+
+#EXTINF:-1 ,Nick HD
+
+http://190.131.247.82:8000/play/a05z
+
+
+#EXTINF:-1 ,Nickelodeon
+
+http://190.131.247.82:8000/play/a0k5
+
+
+#EXTINF:-1 ,Paramount HD
+
+http://190.131.247.82:8000/play/a06f
+
+
+#EXTINF:-1 ,STAR CHANNEL HD
+
+http://190.131.247.82:8000/play/a05x
+
+
+#EXTINF:-1 ,Sony HD
+
+http://190.131.247.82:8000/play/a05k
+
+
+#EXTINF:-1 ,Space HD
+
+http://190.131.247.82:8000/play/a05n
+
+
+#EXTINF:-1 ,Studio Universal HD
+
+http://190.131.247.82:8000/play/a06g
+
+
+#EXTINF:-1 ,TNT HD
+
+http://190.131.247.82:8000/play/a09b
+
+
+#EXTINF:-1 ,TNT Series HD
+
+http://190.131.247.82:8000/play/a0dx
+
+
+#EXTINF:-1 ,TRUTV HD
+
+http://190.131.247.82:8000/play/a0iq
+
+
+#EXTINF:-1 ,Teen Nick HD
+
+http://190.131.247.82:8000/play/a0if
+
+
+#EXTINF:-1 ,Telehit HD
+
+http://190.131.247.82:8000/play/a0h9
+
+
+#EXTINF:-1 ,Telemundo
+
+http://190.131.247.82:8000/play/a02s
+
+
+#EXTINF:-1 ,UNIVERSAL CHANNEL HD
+
+http://190.131.247.82:8000/play/a0dq
+
+
+#EXTINF:-1 ,4012 Univision HD
+
+http://181.78.1.217:8146/play/a07s/index.m3u8
+
+
+#EXTINF:-1 ,HBO XTREME HD
+
+http://181.39.202.98:9993/play/a19u/index.m3u8
+
+
+#EXTINF:-1 ,Movistar Deportes HD
+
+http://181.39.202.98:9993/play/a17m/index.m3u8
+
+
+#EXTINF:-1 ,HBO MUNDI
+
+http://181.39.202.98:9993/play/a1bh/index.m3u8
+
+
+#EXTINF:-1 ,TyC Sports HD
+
+http://181.39.202.98:9993/play/a17z/index.m3u8
+
+
+#EXTINF:-1 ,UNIVERSAL CHANNEL HD
+
+http://181.39.202.98:9993/play/a15q/index.m3u8
+
+
+#EXTINF:-1 ,Warner Channel HD
+
+http://181.39.202.98:9993/play/a166/index.m3u8
+
+
+#EXTINF:-1 ,Space HD
+
+http://181.39.202.98:9993/play/a168/index.m3u8
+
+
+#EXTINF:-1 ,Claro Sports
+
+http://181.204.79.181:8202/play/a00n
+
+
+#EXTINF:-1 ,HBO
+
+http://181.204.79.181:8202/play/a01z
+
+
+#EXTINF:-1 ,HBO 2
+
+http://181.204.79.181:8202/play/a02u
+
+
+#EXTINF:-1 ,HBO Family
+
+http://181.204.79.181:8202/play/a02x
+
+
+#EXTINF:-1 ,HBO Plus
+
+http://181.204.79.181:8202/play/a02v
+
+
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+
+http://168.181.8.150:48000/play/a02h/index.m3u8
+
+
+#EXTINF:-1 ,UNIVERSAL CINEMA
+
+http://168.181.8.150:48000/play/a01a/index.m3u8
+
+
+#EXTINF:-1 ,UNIVERSAL COMEDY
+
+http://168.181.8.150:48000/play/a04a/index.m3u8
+
+
+#EXTINF:-1 ,UNIVERSAL CHANNEL HD
+
+http://161.132.101.134:8000/play/a03i/index.m3u8
+
+
+#EXTINF:-1 ,UNIVERSAL COMEDY HD
+
+http://161.132.101.134:8000/play/a08g/index.m3u8
+
+
+#EXTINF:-1 ,UNIVERSAL CRIME HD
+
+http://161.132.101.134:8000/play/a08f/index.m3u8
+
+
+#EXTINF:-1 ,UNIVERSAL PREMIERE HD
+
+http://161.132.101.134:8000/play/a08c/index.m3u8
+
+
+#EXTINF:-1 ,UNIVERSAL PREMIERE O HD
+
+http://161.132.101.134:8000/play/a08d/index.m3u8
+
+
+#EXTINF:-1 ,UNIVERSAL REALITY HD
+
+http://161.132.101.134:8000/play/a08e/index.m3u8
+
+
+#EXTINF:-1 ,Star Sport SL1 HD
+
+http://103.218.25.12:89/play/a025/index.m3u8
+
+
+#EXTINF:-1 ,Star SportSL 2 HD
+
+http://103.218.25.12:89/play/a026/index.m3u8
+
+
+#EXTINF:-1 ,Star Sports 1
+
+http://103.218.25.12:89/play/a00v/index.m3u8
+
+
+#EXTINF:-1 ,Star Sports 2
+
+http://103.218.25.12:89/play/a00w/index.m3u8
+
+
+#EXTINF:-1 ,Star Sports 2 HD
+
+http://103.218.25.12:89/play/a00p/index.m3u8
+
+
+#EXTINF:-1 ,Star Sports1 HD
+
+http://103.218.25.12:89/play/a00o/index.m3u8
+
+
+#EXTINF:-1 ,Arena Sport 1
+
+http://82.114.82.161:8000/play/a0lx/index.m3u8
+
+
+#EXTINF:-1 ,Arena Sport 2
+
+http://82.114.82.161:8000/play/a0ly/index.m3u8
+
+
+#EXTINF:-1 ,Arena Sport 3
+
+http://82.114.82.161:8000/play/a0lz/index.m3u8
+
+
+#EXTINF:-1 ,Arena Sport 4
+
+http://82.114.82.161:8000/play/a0k6/index.m3u8
+
+
+#EXTINF:-1 ,Arena Sport 5
+
+http://82.114.82.161:8000/play/a0k7/index.m3u8
+
+
+#EXTINF:-1 ,Arena Sport Premium 1
+
+http://82.114.82.161:8000/play/a0k3/index.m3u8
+
+
+#EXTINF:-1 ,Arena Sport Premium 2
+
+http://82.114.82.161:8000/play/a0k4/index.m3u8
+
+
+#EXTINF:-1,Arena Sport Premium 3
+
+http://82.114.82.161:8000/play/a0k5/index.m3u8
+
+
+#EXTINF:-1 ,Fox Sports 1 HD
+
+http://8.242.179.188:8000/play/a020/index.m3u8
+
+
+#EXTINF:-1 ,Distrito Comedia
+
+http://200.24.159.165:4848/play/a05i/index.m3u8
+
+
+#EXTINF:-1 ,Natgeo Mundo
+
+http://216.122.181.174:4066/udp/225.2.2.28:4005
