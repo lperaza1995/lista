@@ -381,16 +381,6 @@ http://200.37.186.105:8000/play/a03x/index.m3u8
 http://200.37.186.105:8000/play/a03d/index.m3u8
 
 
-#EXTINF:-1,Universal
-
-http://200.37.186.105:8000/play/a00e/index.m3u8
-
-
-#EXTINF:-1,VIOLETA TV
-
-http://200.37.186.105:8000/play/a045/index.m3u8
-
-
 #EXTINF:-1,Warner Channel HD
 
 http://200.37.186.105:8000/play/a02o/index.m3u8
