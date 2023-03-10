@@ -13,17 +13,12 @@ http://200.37.186.105:8000/play/a03m/index.m3u8
 
 #EXTINF:-1,03 - AXN HD
 
-http://200.37.186.105:8000/play/a02p/index.m3u8
-
-
-#EXTINF:-1,04 - America TV HD
-
-http://200.37.186.105:8000/play/a03b/index.m3u8
+http://45.172.16.186:4000/play/a014/index.m3u8
 
 
 #EXTINF:-1,05 - Animal Planet HD
 
-http://200.37.186.105:8000/play/a03v/index.m3u8
+http://45.5.118.213:16000/play/a0n4/index.m3u8
 
 
 #EXTINF:-1,06 - CNN Espanol
@@ -38,7 +33,7 @@ http://200.37.186.105:8000/play/a01n/index.m3u8
 
 #EXTINF:-1,08 - Cartoon Network HD
 
-http://200.37.186.105:8000/play/a03q/index.m3u8
+http://45.172.16.186:4000/play/a00d/index.m3u8
 
 
 #EXTINF:-1,09 - Cinecanal HD
@@ -63,22 +58,22 @@ http://201.244.106.58:8990/play/a01j/index.m3u8
 
 #EXTINF:-1,013 - Comedy Central HD
 
-http://201.218.137.227:4000/play/a04m/index.m3u8
+http://8.242.187.233:5800/play/a0dr/index.m3u8
 
 
 #EXTINF:-1,014 - Discovery Channel HD
 
-http://201.218.137.227:4000/play/a03k/index.m3u8
+http://8.242.187.233:5800/play/a0cq/index.m3u8
 
 
 #EXTINF:-1,015 - Discovery Channel HD
 
-http://201.218.137.227:4000/play/a03k/index.m3u8
+http://45.172.16.186:4000/play/a00p/index.m3u8
 
 
 #EXTINF:-1,016 - Discovery Theater HD
 
-http://201.218.137.227:4000/play/a03m/index.m3u8
+http://8.242.187.233:5800/play/a0dx/index.m3u8
 
 
 #EXTINF:-1,017 - Discovery ID
@@ -103,17 +98,17 @@ http://200.37.186.105:8000/play/a03k/index.m3u8
 
 #EXTINF:-1,021 - Discovery Science HD
 
-http://201.218.137.227:4000/play/a03p/index.m3u8
+http://8.242.187.233:5800/play/a0g9/index.m3u8
 
 
-#EXTINF:-1,022 - Disney Channel
+#EXTINF:-1,022 - Disney Channel FHD
 
-http://200.37.186.105:8000/play/a019/index.m3u8
+http://45.172.16.186:4000/play/a00i/index.m3u8
 
 
 #EXTINF:-1,023 - Disney Jr
 
-http://200.37.186.105:8000/play/a012/index.m3u8
+http://45.172.16.186:4000/play/a00z/index.m3u8
 
 
 #EXTINF:-1,024 - E Entertainment
@@ -171,19 +166,14 @@ http://200.37.186.105:8000/play/a01w/index.m3u8
 http://200.37.186.105:8000/play/a03a/index.m3u8
 
 
-#EXTINF:-1,035 - Fox Sports HD
-
-http://201.218.137.227:4000/play/a057/index.m3u8
-
-
 #EXTINF:-1,036 - Fox Sports 2 HD
 
-http://201.218.137.227:4000/play/a058/index.m3u8
+http://8.242.187.233:5800/play/a0e1/index.m3u8
 
 
 #EXTINF:-1,037 - Fox Sports 3 HD
 
-http://201.218.137.227:4000/play/a059/index.m3u8
+http://8.242.187.233:5800/play/a0do/index.m3u8
 
 
 #EXTINF:-1,038 - Golden HD
@@ -193,13 +183,6 @@ http://200.37.186.105:8000/play/a033/index.m3u8
 
 #EXTINF:-1,039 - Golden Premiere HD
 
-http://201.218.137.227:4000/play/a009/index.m3u8
-
-
-#EXTINF:-1,040 - Golden Premiere 2 HD
-
-http://201.218.137.227:4000/play/a00b/index.m3u8
-
 
 #EXTINF:-1,041 - HBO 2 HD
 
@@ -208,105 +191,85 @@ http://200.37.186.105:8000/play/a03u/index.m3u8
 
 #EXTINF:-1,042 - HBO HD
 
-http://201.218.137.227:4000/play/a047/index.m3u8
+http://8.242.187.233:5800/play/a0d3/index.m3u8
 
 
 #EXTINF:-1,043 - HBO Plus HD
 
-http://201.218.137.227:4000/play/a049/index.m3u8
+http://45.238.20.129:8000/play/a00i
 
 
 #EXTINF:-1,044 - HBO Family HD
 
-http://201.218.137.227:4000/play/a04a/index.m3u8
+http://8.242.187.233:5800/play/a0au/index.m3u8
 
 
 #EXTINF:-1,045 - HBO Xtreme HD
 
-http://201.218.137.227:4000/play/a04b/index.m3u8
+http://8.242.187.233:5800/play/a0aw/index.m3u8
 
 
-#EXTINF:-1,0046 - HBO Signature HD
-
-http://201.218.137.227:4000/play/a00z/index.m3u8
-
-
-#EXTINF:-1,0047 - HBO POP HD
+#EXTINF:-1,047 - HBO POP HD
 
 http://200.37.186.105:8000/play/a02t/index.m3u8
 
 
-#EXTINF:-1,0048 - History Channel HD
+#EXTINF:-1,048 - History Channel HD
 
-http://200.37.186.105:8000/play/a02l/index.m3u8
+http://45.172.16.186:4000/play/a00a/index.m3u8
 
 
-#EXTINF:-1,0049 - History HD
+#EXTINF:-1,049 - History HD
 
-http://201.218.137.227:4000/play/a03h/index.m3u8
+http://8.242.187.233:5800/play/a0da/index.m3u8
 
 
 #EXTINF:-1,0050 - History 2 HD
 
-http://201.218.137.227:4000/play/a03i/index.m3u8
+http://45.172.16.186:4000/play/a013/index.m3u8
 
 
-#EXTINF:-1,0051 - HomeandHealth
+#EXTINF:-1,051 - HomeandHealth
 
-http://200.37.186.105:8000/play/a029/index.m3u8
+http://45.172.16.186:4000/play/a008/index.m3u8
 
 
-#EXTINF:-1,0052 - I-Sat
+#EXTINF:-1,052 - I-Sat
 
 http://200.37.186.105:8000/play/a00f/index.m3u8
 
 
-#EXTINF:-1,00053 - Kanal D Drama HD
+#EXTINF:-1,053 - Kanal D Drama HD
 
 http://200.37.186.105:8000/play/a03p/index.m3u8
 
 
-#EXTINF:-1,00054 - La Red HD
+#EXTINF:-1,054 - La Red HD
 
 http://200.37.186.105:8000/play/a02z/index.m3u8
 
 
-#EXTINF:-1,00055 - Latina HD
-
-http://200.37.186.105:8000/play/a03c/index.m3u8
-
-
-#EXTINF:-1,00056 - Lifetime
+#EXTINF:-1,056 - Lifetime
 
 http://200.37.186.105:8000/play/a00s/index.m3u8
 
 
-#EXTINF:-1,00057 - MTV HD
+#EXTINF:-1,057 - MTV HD
 
-http://201.218.137.227:4000/play/a004/index.m3u8
-
-
-#EXTINF:-1,00058 - MTV Live HD
-
-http://201.218.137.227:4000/play/a05f/index.m3u8
+http://8.242.187.233:5800/play/a0co/index.m3u8
 
 
-#EXTINF:-1,00059 - MTV 00s HD
-
-http://201.218.137.227:4000/play/a05g/index.m3u8
-
-
-#EXTINF:-1,000060 - Movistar Deportes HD
+#EXTINF:-1,060 - Movistar Deportes HD
 
 http://200.37.186.105:8000/play/a032/index.m3u8
 
 
-#EXTINF:-1,000061 - Nat Geo HD
+#EXTINF:-1,061 - Nat Geo HD
 
-http://201.218.137.227:4000/play/a03g/index.m3u8
+http://45.172.16.186:4000/play/a016/index.m3u8
 
 
-#EXTINF:-1,000062 - Nick HD
+#EXTINF:-1,062 - Nick HD
 
 http://200.37.186.105:8000/play/a02y/index.m3u8
 
@@ -316,42 +279,42 @@ http://200.37.186.105:8000/play/a02y/index.m3u8
 http://200.37.186.105:8000/play/a020/index.m3u8
 
 
-#EXTINF:-1,000064 - Nickelodeon
+#EXTINF:-1,064 - Nickelodeon
 
 http://200.37.186.105:8000/play/a00a/index.m3u8
 
 
-#EXTINF:-1,000065 - Paramount HD
+#EXTINF:-1,065 - Paramount HD
 
-http://201.218.137.227:4000/play/a04r/index.m3u8
+http://45.172.16.186:4000/play/a005/index.m3u8
 
 
-#EXTINF:-1,0000066 - RCN Novelas
+#EXTINF:-1,066 - RCN Novelas
 
 http://200.37.186.105:8000/play/a024/index.m3u8
 
 
-#EXTINF:-1,0000067 - STAR CHANNEL
+#EXTINF:-1,067 - STAR CHANNEL
 
-http://200.37.186.105:8000/play/a00j/index.m3u8
+http://45.172.16.186:4000/play/a012/index.m3u8
 
 
-#EXTINF:-1,0000068 - STAR CHANNEL HD
+#EXTINF:-1,068 - STAR CHANNEL HD
 
 http://200.37.186.105:8000/play/a02x/index.m3u8
 
 
-#EXTINF:-1,0000069 - STAR TVE HD
+#EXTINF:-1,069 - STAR TVE HD
 
 http://200.37.186.105:8000/play/a03t/index.m3u8
 
 
-#EXTINF:-1,0000070 - Sin Limites
+#EXTINF:-1,70 - Sin Limites
 
 http://200.37.186.105:8000/play/a02h/index.m3u8
 
 
-#EXTINF:-1,0000071 - Sony HD
+#EXTINF:-1,071 - Sony HD
 
 http://200.37.186.105:8000/play/a02n/index.m3u8
 
@@ -378,7 +341,7 @@ http://200.37.186.105:8000/play/a00t/index.m3u8
 
 #EXTINF:-1,076 - TNT HD
 
-http://201.244.106.58:8990/play/a00l/index.m3u8
+http://45.172.16.186:4000/play/a001/index.m3u8
 
 
 #EXTINF:-1,077 - TNT Series HD
@@ -416,41 +379,16 @@ http://200.37.186.105:8000/play/a02o/index.m3u8
 http://200.37.186.105:8000/play/a02u/index.m3u8
 
 
-#EXTINF:-1,084 - DreamWorks HD
-
-http://201.218.137.227:4000/play/a03y/index.m3u8
-
-
 #EXTINF:-1,085 - Universal Channel HD
 
-http://201.218.137.227:4000/play/a040/index.m3u8
+http://8.242.187.233:5800/play/a0dz/index.m3u8
 
 
-#EXTINF:-1,086 - Universal Cinema HD
+#EXTINF:-1,086 - Investigation Discovery FHD
 
-http://201.218.137.227:4000/play/a041/index.m3u8
-
-
-#EXTINF:-1,087 - Universal Premier HD
-
-http://201.218.137.227:4000/play/a042/index.m3u8
+http://45.172.16.186:4000/play/a00q/index.m3u8
 
 
-#EXTINF:-1,088 - Universal Premier 2 HD
-
-http://201.218.137.227:4000/play/a043/index.m3u8
 
 
-#EXTINF:-1,089 - Universal Reality HD
 
-http://201.218.137.227:4000/play/a044/index.m3u8
-
-
-#EXTINF:-1,090 - Universal Crime HD
-
-http://201.218.137.227:4000/play/a045/index.m3u8
-
-
-#EXTINF:-1,091 - Universal Comedy HD
-
-http://201.218.137.227:4000/play/a046/index.m3u8
