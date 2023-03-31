@@ -106,7 +106,54 @@ http://138.185.15.147:20001/play/a064/index.m3u8
 http://138.185.15.148:20001/play/a064/index.m3u8
 
 
+#EXTINF:-1 tvg-id="nbc6wtvj.us" tvg-name="USA : NBC MIAMI" tvg-logo="https://1.bp.blogspot.com/-IYUmBobf4Hc/YN3-eXnXqVI/AAAAAAAA-JE/NwoV6iE5zpMS0apdLCA0QDGcsxOhD1kPQCLcBGAsYHQ/s1080/nbc%2Bmiami.png" group-title="USA",USA : NBC MIAMI
 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/101356.ts
+
+
+#EXTINF:-1,USA | NBC
+
+http://51.222.25.50:25461/m0nk/n3w/313
+
+
+#EXTINF:-1,USA | NBC 10 Philadelphia
+
+http://51.222.25.50:25461/m0nk/n3w/314
+
+
+#EXTINF:-1,USA | NBC 2 Houston
+
+http://51.222.25.50:25461/m0nk/n3w/315
+
+
+#EXTINF:-1,USA | NBC 4 Los Angeles
+
+http://51.222.25.50:25461/m0nk/n3w/317
+
+
+#EXTINF:-1,USA | NBC 4 New York
+
+http://51.222.25.50:25461/m0nk/n3w/318
+
+
+#EXTINF:-1,USA | NBC 5 Chicago
+
+http://51.222.25.50:25461/m0nk/n3w/319
+
+
+#EXTINF:-1,USA | NBC 5 Dallas
+
+http://51.222.25.50:25461/m0nk/n3w/320
+
+
+#EXTINF:-1,USA | NBC 6 Miami
+
+http://51.222.25.50:25461/m0nk/n3w/321
+
+
+#EXTINF:-1,USA | NBC 9 Denver
+
+http://51.222.25.50:25461/m0nk/n3w/322
 
 
 
