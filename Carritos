@@ -91,6 +91,21 @@ http://200.116.199.180:9000/play/a04k
 http://200.116.199.180:9000/play/a03p
 
 
+#EXTINF:-1,ESPN 2 HD
+
+http://138.185.15.149:20001/play/a064/index.m3u8
+
+
+#EXTINF:-1,ESPN 2 HD
+
+http://138.185.15.147:20001/play/a064/index.m3u8
+
+
+#EXTINF:-1,ESPN 2 HD
+
+http://138.185.15.148:20001/play/a064/index.m3u8
+
+
 
 
 
