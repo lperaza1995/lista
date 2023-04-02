@@ -1,32 +1,37 @@
 #EXTM3U
 
 
-#EXTINF:-1,UK Sky Sports F1 UK
+#EXTINF:-1, UK
+
+http://185.234.217.107:8001/play/a039/index.m3u8
+
+
+#EXTINF:-1, UK
 
 http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/611
 
 
-#EXTINF:-1,UK Sky Sports F1 UK 
+#EXTINF:-1,UK 
 
 http://megaott.cx:80/4859105457/3737632801/191464
 
 
-#EXTINF:-1,UK Sky Sports F1 UK 
+#EXTINF:-1,UK 
 
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30499&extension=ts
 
 
-#EXTINF:-1, SKY Sports E HD
+#EXTINF:-1, UK E HD
 
 http://royal-cdn.eu:8080/Putnoki/Tibor/65203?utc=1674494900&lutc=1674494900
 
 
-#EXTINF:-1, SKY Sports HD
+#EXTINF:-1, UK HD
 
 http://ipwebtv.dyndns.tv:8000/szaziattila2/UciVidIs45/9110
 
 
-#EXTINF:-1, SKY Sports E UHD
+#EXTINF:-1, UK UHD
 
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:00:00:01&stream=1566281&extension=ts&play_token=mkkWdFDSMp
 
@@ -171,7 +176,23 @@ http://51.222.25.50:25461/m0nk/n3w/321
 http://51.222.25.50:25461/m0nk/n3w/322
 
 
+#EXTINF:-1, CANAL 5 HD
+
+http://190.61.91.81:5000/play/a0ll/index.m3u8
 
 
+#EXTINF:-1, CANAL 5
+
+http://190.61.91.81:5000/play/a0fl/index.m3u8
+
+
+#EXTINF:-1, CANAL 5 MASO
+
+https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=55&f=.m3u8
+
+
+#EXTINF:-1, CANAL 5 MASO
+
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140123
 
 
