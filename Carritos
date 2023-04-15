@@ -1,21 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1, UK
-
-http://185.234.217.107:8001/play/a039/index.m3u8
-
-
-#EXTINF:-1, UK
-
-http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/611
-
-
-#EXTINF:-1,UK 
-
-http://megaott.cx:80/4859105457/3737632801/191464
-
-
 #EXTINF:-1,UK 
 
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30499&extension=ts
@@ -38,32 +23,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:00:00:01&stream=1566281&exte
 
 #EXTINF:-1, ESPN HD
 
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1427
-
-
-#EXTINF:-1, ESPN HD
-
 http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52642.ts
-
-
-#EXTINF:-1, TSN 1 HD
-
-http://soberon.us:25461/m0nk/n3w/3829
-
-
-#EXTINF:-1, TSN 2 HD
-
-http://soberon.us:25461/m0nk/n3w/3830
-
-
-#EXTINF:-1, TSN 1 HD
-
-http://51.222.25.50:25461/m0nk/n3w/13
-
-
-#EXTINF:-1, TSN 2 HD
-
-http://51.222.25.50:25461/m0nk/n3w/14
 
 
 #EXTINF:-1, TSN 1 HD
@@ -76,16 +36,6 @@ http://dvbos.com:2082/236802056075/151348678479/41379
 http://dvbos.com:2082/236802056075/151348678479/41378
 
 
-#EXTINF:-1, TSN 1 HD
-
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/90472
-
-
-#EXTINF:-1, DAZN F1 FHD
-
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69768
-
-
 #EXTINF:-1, ESPN ESP HD
 
 http://200.48.19.142:8000/play/a00z
@@ -94,21 +44,6 @@ http://200.48.19.142:8000/play/a00z
 #EXTINF:-1,ESPN 2 ESP HD
 
 http://200.48.19.142:8000/play/a00x
-
-
-#EXTINF:-1,Fox Sports 3 HD
-
-http://200.48.19.142:8000/play/a015
-
-
-#EXTINF:-1,ESPN ESP HD
-
-http://200.116.199.180:9000/play/a04k
-
-
-#EXTINF:-1,ESPN 2 HD
-
-http://200.116.199.180:9000/play/a03p
 
 
 #EXTINF:-1,ESPN 2 HD
@@ -131,51 +66,6 @@ http://138.185.15.148:20001/play/a064/index.m3u8
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/101356.ts
 
 
-#EXTINF:-1,USA | NBC
-
-http://51.222.25.50:25461/m0nk/n3w/313
-
-
-#EXTINF:-1,USA | NBC 10 Philadelphia
-
-http://51.222.25.50:25461/m0nk/n3w/314
-
-
-#EXTINF:-1,USA | NBC 2 Houston
-
-http://51.222.25.50:25461/m0nk/n3w/315
-
-
-#EXTINF:-1,USA | NBC 4 Los Angeles
-
-http://51.222.25.50:25461/m0nk/n3w/317
-
-
-#EXTINF:-1,USA | NBC 4 New York
-
-http://51.222.25.50:25461/m0nk/n3w/318
-
-
-#EXTINF:-1,USA | NBC 5 Chicago
-
-http://51.222.25.50:25461/m0nk/n3w/319
-
-
-#EXTINF:-1,USA | NBC 5 Dallas
-
-http://51.222.25.50:25461/m0nk/n3w/320
-
-
-#EXTINF:-1,USA | NBC 6 Miami
-
-http://51.222.25.50:25461/m0nk/n3w/321
-
-
-#EXTINF:-1,USA | NBC 9 Denver
-
-http://51.222.25.50:25461/m0nk/n3w/322
-
-
 #EXTINF:-1, CANAL 5 HD
 
 http://190.61.91.81:5000/play/a0ll/index.m3u8
@@ -184,11 +74,6 @@ http://190.61.91.81:5000/play/a0ll/index.m3u8
 #EXTINF:-1, CANAL 5
 
 http://190.61.91.81:5000/play/a0fl/index.m3u8
-
-
-#EXTINF:-1, CANAL 5 MASO
-
-https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=55&f=.m3u8
 
 
 #EXTINF:-1, CANAL 5 MASO
@@ -211,19 +96,11 @@ http://45.182.21.251:33334/play/a077/index.m3u8
 http://45.176.116.56:8088/play/a00f
 
 
-#EXTINF:-1, FOX SPORTTS 1 
-
-http://45.161.115.26:50000/play/a02r/index.m3u8
-
-
 #EXTINF:-1, ESPN 3 Tennis
 
 http://45.176.232.74:8000/play/a004
 
 
-#EXTINF:-1, ESPN 3 Tennis
-
-http://45.161.115.26:50000/play/a028/index.m3u8
 
 
 
