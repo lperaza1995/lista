@@ -110,15 +110,24 @@ http://45.182.21.251:33334/play/a077/index.m3u8
 http://45.176.116.56:8088/play/a00f
 
 
-#EXTINF:-1, ESPN 3 Tennis
+#EXTINF:-1, ESPN  
 
-http://45.176.232.74:8000/play/a004
-
-
+http://45.71.252.67:8000/play/a052/index.m3u8
 
 
+#EXTINF:-1, ESPN HD
+
+http://201.222.44.220:4227/play/a00k/index.m3u8
 
 
+#EXTINF:-1, ESPN HD
+
+http://200.4.217.18:8000/play/a00e/index.m3u8
+
+
+#EXTINF:-1, ESPN HD
+
+http://200.116.199.180:8000/play/a04k
 
 
 
