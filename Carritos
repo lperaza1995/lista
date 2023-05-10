@@ -16,78 +16,14 @@ http://royal-cdn.eu:8080/Putnoki/Tibor/65203?utc=1674494900&lutc=1674494900
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:00:00:01&stream=1566281&extension=ts&play_token=mkkWdFDSMp
 
 
-#EXTINF:-1, TSN 1 HD
+#EXTINF:-1, ESPN 2 PAN
 
-http://dvbos.com:2082/236802056075/151348678479/41379
-
-
-#EXTINF:-1, TSN 2 HD
-
-http://dvbos.com:2082/236802056075/151348678479/41378
+http://191.97.58.41:8000/play/a016
 
 
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1, ESPN 1 PAN
 
-http://138.185.15.149:20001/play/a064/index.m3u8
-
-
-#EXTINF:-1,ESPN 2 HD
-
-http://138.185.15.147:20001/play/a064/index.m3u8
-
-
-#EXTINF:-1,ESPN 2 HD
-
-http://138.185.15.148:20001/play/a064/index.m3u8
-
-
-#EXTINF:-1 tvg-id="nbc6wtvj.us" tvg-name="USA : NBC MIAMI" tvg-logo="https://1.bp.blogspot.com/-IYUmBobf4Hc/YN3-eXnXqVI/AAAAAAAA-JE/NwoV6iE5zpMS0apdLCA0QDGcsxOhD1kPQCLcBGAsYHQ/s1080/nbc%2Bmiami.png" group-title="USA",USA : NBC MIAMI
-
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/101356.ts
-
-
-#EXTINF:-1, CANAL 5
-
-http://190.61.91.81:5000/play/a0fl/index.m3u8
-
-
-#EXTINF:-1, CANAL 5 MASO
-
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140123
-
-
-#EXTINF:-1, CANAL 5 NUEVO
-
-http://45.182.21.251:33334/play/a08k/index.m3u8
-
-
-#EXTINF:-1, CANAL 5 NUEVO
-
-http://45.182.21.251:33334/play/a077/index.m3u8
-
-
-#EXTINF:-1, FS Premium
-
-http://102.165.51.185:80/LVH60Ml8Hc/O4XSkHm6Yj/304554
-
-
-
-#EXTINF:-1, ESPN 3 HD
-
-http://45.162.135.33:1880/play/a0au
-
-
-
-#EXTINF:-1, ESPN 3 HD
-
-http://45.170.225.212:58001/play/a016/index.m3u8
-
-
-
-#EXTINF:-1, ESPN 3 HD
-
-http://45.228.234.162:24000/play/a07s/index.m3u8
-
+http://191.97.58.41:8000/play/a014
 
 
 
