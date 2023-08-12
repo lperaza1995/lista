@@ -1,54 +1,34 @@
 #EXTM3U
 
 
-#EXTINF:-1,UK 
+#EXTINF:- DTVS +
 
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30499&extension=ts
-
-
-#EXTINF:-1, UK E HD
-
-http://royal-cdn.eu:8080/Putnoki/Tibor/65203?utc=1674494900&lutc=1674494900
+http://181.177.255.253:8000/play/a078/index.m3u8
 
 
-#EXTINF:-1, UK UHD
+#EXTINF:-1, DTVS 1
 
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:00:00:01&stream=1566281&extension=ts&play_token=mkkWdFDSMp
-
-
-#EXTINF:-1, ESPN 2 PAN
-
-http://191.97.58.41:8000/play/a016
+http://181.177.255.253:8000/play/a075/index.m3u8
 
 
-#EXTINF:-1, ESPN 1 PAN
+#EXTINF:-1, DTVS 2
 
-http://191.97.58.41:8000/play/a014
-
-
-#EXTINF:-1, IC HD
-
-https://stream.mux.com/hjmlm3Vnw5St9DMKvmxobsDMXIUFq52ObQ7FulPI2s00.m3u8?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdLQ0J2S3RxdDllMlhZTUFMWDdhUEFIZm43d3JtZWhCbTAxQ2VHRzRaUjZjIn0.eyJhZGRfYXVkaW9fb25seSI6ZmFsc2UsImN1c3RvbSI6eyJ1c2VyIjo3MzM0Mjd9LCJleHAiOjE2ODM5OTgyMzMsImF1ZCI6InYiLCJzdWIiOiJoam1sbTNWbnc1U3Q5RE1Ldm14b2JzRE1YSVVGcTUyT2JRN0Z1bFBJMnMwMCJ9.vQse-KpOQDLrEmBjrj-MkyTapjsqAjnyTni7WdzFioeLL6HenSDq_K3Er54FVB_N7eUtXzU31NhxbKInooU021nyc_a7HrFre9rgRTNPxHWpfgu2HE2-1GcYIstBgU6N0IyuH99cl-XcU708dSJOc6LLk8IQ2qYyKjYHTppA4100vtwRQmHg67YuPLqkQZuUi9MnUdkxGMAbLgXdGmjm6ibdVerrd_plPKu0RiCAMkKBvITdgLq1MqTwBp-CoALgPGpBMuQJxTFUszvZoQYCoMOfFMVEh9QD6oFr5D5r3Af8ADkF9pi6fAIiSFONQjnQPtCtNpw_17cz41dlF2oUAg
+http://201.218.137.232:4123/play/a05a/index.m3u8
 
 
-#EXTINF:-1, ESPN 2 HD
+#EXTINF:-1, DTVS 2
 
-http://181.78.75.11:9500/play/a029/index.m3u8
-
-
-#EXTINF:-1, ESPN 3 HD
-
-http://190.122.186.88:8000/play/a0jo/index.m3u8
+http://201.218.137.232:4123/play/a05b/index.m3u8
 
 
-#EXTINF:-1, ESPN 3 HD
+#EXTINF:-1, DTVS +
 
-http://189.202.205.235:4000/play/a03j
+http://201.218.137.232:4123/play/a05c/index.m3u8
 
 
-#EXTINF:-1, IC Q HD
+#EXTINF:-1, DTVS +
 
-https://stream.mux.com/6AURJqSJoX00b4ApS2Tuu5jIOoaK2BZ6h00qpeQjG5Rbc.m3u8?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdLQ0J2S3RxdDllMlhZTUFMWDdhUEFIZm43d3JtZWhCbTAxQ2VHRzRaUjZjIn0.eyJhZGRfYXVkaW9fb25seSI6ZmFsc2UsImN1c3RvbSI6eyJ1c2VyIjo3MzM0Mjd9LCJleHAiOjE2ODQwMDc0ODksImF1ZCI6InYiLCJzdWIiOiI2QVVSSnFTSm9YMDBiNEFwUzJUdXU1aklPb2FLMkJaNmgwMHFwZVFqRzVSYmMifQ.m4GQPcT9DnfG82KVvxKafHpkHJKH46JWQ_-Ql-bFP9aM0WhPQvecKBU0z_4Tm-z2K3gAbyD224Ya6fOR3ZG-x-dKN7791P_dBqmQ8y6s3slHuz_qPSzvLZJ0ZA0Ex_FFkhCcjhAqoABaNNfXGtOcIVJ6LjM54k8FpaES9cBrfGCQPIuYmKwl5g9auDppV8YgmErj06JdORdj8_HyzjuTZnDPFg-MHzYnoQQnPauAmbNJpMpireloL4sB5m8q65O_yANcQndIkVN_RaiMTGrqHwI3sb2Nm3ddWGE0kCoDwUIeTsY5CVoHL-gDpGmPL8z53H6gdd5VJIHMwK9O_Mq_Wg
+http://45.228.232.205:16000/play/a08y/index.m3u8
 
 
 
