@@ -1,58 +1,51 @@
 #EXTM3U
 
 
-#EXTINF:- DTVS +
+#EXTINF:- DTVS
 
 http://181.177.255.253:8000/play/a078/index.m3u8
 
 
-#EXTINF:-1, DTVS 1
+#EXTINF:-1, DTVS 
 
 http://181.177.255.253:8000/play/a075/index.m3u8
 
 
-#EXTINF:-1, DTVS 2
+#EXTINF:-1, DTVS 
 
 http://201.218.137.232:4123/play/a05a/index.m3u8
 
 
-#EXTINF:-1, DTVS 2
-
-http://201.218.137.232:4123/play/a05b/index.m3u8
-
-
-#EXTINF:-1, DTVS +
-
-http://201.218.137.232:4123/play/a05c/index.m3u8
-
-
-#EXTINF:-1, DTVS +
+#EXTINF:-1, SSLL
 
 http://45.228.232.205:16000/play/a08y/index.m3u8
 
 
-#EXTINF:-1, ES
+#EXTINF:-1, URUVSCH
 
-http://190.61.43.118:45000/play/a01l
-
-
-#EXTINF:-1, ES
-
-http://190.61.43.119:45000/play/a01l
+http://181.226.241.197:8001/play/a08n
 
 
-#EXTINF:-1, ES
+#EXTINF:-1, URUVSCH
 
-http://190.61.43.121:45000/play/a01l
-
-
-#EXTINF:-1, ES esta
-
-http://38.56.118.88:4000/play/a00x/index.m3u8
+http://177.234.247.66:8888/play/a00o/index.m3u8
 
 
-#EXTINF:-1, ES esta2
+#EXTINF:-1, URUVSCH
 
-http://38.43.140.215:8000/play/a035/index.m3u8
+http://170.254.234.244:8000/play/a01k/index.m3u8
+
+
+#EXTINF:-1, URUVSCH
+
+http://186.10.252.90:8000/play/a051
+
+
+
+
+
+
+
+
 
 
