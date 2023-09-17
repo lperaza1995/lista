@@ -1,19 +1,19 @@
 #EXTM3U
 
 
-#EXTINF:- DTVS
+#EXTINF:-1, DTVS
 
-http://181.177.255.253:8000/play/a078/index.m3u8
-
-
-#EXTINF:-1, DTVS 
-
-http://181.177.255.253:8000/play/a075/index.m3u8
+http://200.123.15.194:8000/play/a03d
 
 
 #EXTINF:-1, DTVS 
 
-http://201.218.137.232:4123/play/a05a/index.m3u8
+http://200.123.15.195:8000/play/a03d
+
+
+#EXTINF:-1, DTVS 
+
+http://200.123.15.196:8000/play/a03d
 
 
 #EXTINF:-1, SSLL
