@@ -56,6 +56,26 @@ http://200.123.230.5:8000/play/a05a
 http://200.116.199.180:8000/play/a045
 
 
+#EXTINF:-1, LAS E 1
+
+http://138.59.177.34:8000/play/a07k/index.m3u8
+
+
+#EXTINF:-1, LAS E 2
+
+http://190.14.251.57:8282/play/a0kt/index.m3u8
+
+
+#EXTINF:-1, LAS E 3
+
+http://45.177.53.7:8000/play/a0d0/index.m3u8
+
+
+#EXTINF:-1, Canal 7
+
+http://181.204.79.182:9609/play/a01v
+
+
 
 
 
