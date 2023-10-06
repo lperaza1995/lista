@@ -56,9 +56,44 @@ http://187.102.208.105:50001/play/a03o/index.m3u8
 http://187.102.208.104:50001/play/a03o/index.m3u8
 
 
-#EXTINF:-1, SSLL
+#EXTINF:-1, DTVS 
 
-http://45.228.232.205:16000/play/a08y/index.m3u8
+http://38.43.150.124:8000/play/a041/index.m3u8
+
+
+#EXTINF:-1, DTVS 
+
+http://38.43.150.123:8000/play/a041/index.m3u8
+
+
+#EXTINF:-1, DTVS 
+
+http://38.43.150.122:8000/play/a041/index.m3u8
+
+
+#EXTINF:-1, DTVS
+
+http://38.43.150.121:8000/play/a041/index.m3u8
+
+
+#EXTINF:-1, DTVS 
+
+http://38.43.150.121:8000/play/a041/index.m3u8
+
+
+#EXTINF:-1, DTVS 
+
+http://38.43.150.120:8000/play/a041/index.m3u8
+
+
+#EXTINF:-1, DTVS 
+
+http://209.45.77.121:8000/play/a03d
+
+
+#EXTINF:-1, DTVS 
+
+http://200.233.45.57:8000/play/a01v
 
 
 #EXTINF:-1, ESPN 
@@ -121,6 +156,11 @@ http://190.102.139.243:8900/play/a0t2/index.m3u8
 http://190.102.139.242:8900/play/a0t2/index.m3u8
 
 
+#EXTINF:-1, FX P
+
+http://45.189.148.24:8000/play/a027/index.m3u8
+
+
 #EXTINF:-1, LAS E 1
 
 http://138.59.177.34:8000/play/a07k/index.m3u8
@@ -133,22 +173,12 @@ http://154.94.0.221:4444/play/a0le/index.m3u8
 
 #EXTINF:-1, LAS E 3
 
-http://45.177.53.7:8000/play/a0d0/index.m3u8
-
-
-#EXTINF:-1, LAS E 4
-
-http://187.154.156.21:8000/play/a00d
-
-
-#EXTINF:-1, LAS E 5
-
-http://187.154.156.21:8000/play/a002
+http://45.167.253.253:4000/play/a010/index.m3u8
 
 
 #EXTINF:-1, Canal 7
 
-http://181.204.79.182:9609/play/a01v
+http://45.167.253.253:4000/play/a00p/index.m3u8
 
 
 #EXTINF:-1, C5
@@ -158,32 +188,22 @@ http://154.94.0.221:4444/play/a0ll/index.m3u8
 
 #EXTINF:-1, C5
 
-http://187.154.156.21:8000/play/a018
-
-
-#EXTINF:-1, C5
-
-http://187.154.156.21:8000/play/a00o
-
-
-#EXTINF:-1, C5
-
-http://187.154.156.21:8000/play/a00q
+http://45.167.253.253:4000/play/a016/index.m3u8
 
 
 #EXTINF:-1, TDN
 
-http://187.154.156.21:8000/play/a00h
+http://45.189.148.24:8000/play/a00k/index.m3u8
 
 
 #EXTINF:-1, TDN
 
-http://187.154.156.21:8000/play/a00x
+http://200.52.148.194:8000/play/a07d/index.m3u8
 
 
 #EXTINF:-1, TDN
 
-http://190.6.199.61:8004/play/a04d/index.m3u8
+http://190.92.7.19:8000/play/a05d/index.m3u8
 
 
 
