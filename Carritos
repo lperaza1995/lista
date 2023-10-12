@@ -206,7 +206,54 @@ http://200.52.148.194:8000/play/a07d/index.m3u8
 http://190.92.7.19:8000/play/a05d/index.m3u8
 
 
+#EXTINF:-1, CH Vision
 
+http://45.70.201.252:8889/play/a00o/index.m3u8
+
+
+#EXTINF:-1, CH Vision
+
+http://45.181.122.13:8000/play/011
+
+
+#EXTINF:-1, ECDF 
+
+http://45.224.152.89:8500/play/a0a2
+
+
+#EXTINF:-1, ECDF FHD
+
+http://45.175.166.13:49010/play/a0al/index.m3u8
+
+
+#EXTINF:-1, ECDF
+
+http://200.233.45.27:8000/play/a03u/index.m3u8
+
+
+#EXTINF:-1, Mega HD
+
+http://45.224.152.89:8500/play/a09g
+
+
+#EXTINF:-1, Mega HD
+
+http://45.181.122.13:8000/play/009
+
+
+#EXTINF:-1, TIGO
+
+http://45.171.64.171:41002/play/a03r/index.m3u8
+
+
+#EXTINF:-1, TIGO
+
+http://201.159.113.219:49000/play/a04x/index.m3u8
+
+
+#EXTINF:-1, Caracol
+
+http://45.169.39.98:8585/play/a089/index.m3u8
 
 
 
