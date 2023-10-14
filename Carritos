@@ -1,91 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1, DTVS
-
-http://161.132.243.192:50001/play/a03o/index.m3u8
-
-
-#EXTINF:-1, DTVS 
-
-http://161.132.108.76:50001/play/a03o/index.m3u8
-
-
-#EXTINF:-1, DTVS 
-
-http://161.132.108.75:50001/play/a03o/index.m3u8
-
-
-#EXTINF:-1, DTVS 
-
-http://161.132.108.74:50001/play/a03o/index.m3u8
-
-
-#EXTINF:-1, DTVS 
-
-http://161.132.108.73:50001/play/a03o/index.m3u8
-
-
-#EXTINF:-1, DTVS 
-
-http://161.132.108.72:50001/play/a03o/index.m3u8
-
-
-#EXTINF:-1, DTVS 
-
-http://187.102.208.108:50001/play/a03o/index.m3u8
-
-
-#EXTINF:-1, DTVS 
-
-http://187.102.208.107:50001/play/a03o/index.m3u8
-
-
-#EXTINF:-1, DTVS 
-
-http://187.102.208.106:50001/play/a03o/index.m3u8
-
-
-#EXTINF:-1, DTVS 
-
-http://187.102.208.105:50001/play/a03o/index.m3u8
-
-
-#EXTINF:-1, DTVS 
-
-http://187.102.208.104:50001/play/a03o/index.m3u8
-
-
-#EXTINF:-1, DTVS 
-
-http://38.43.150.124:8000/play/a041/index.m3u8
-
-
-#EXTINF:-1, DTVS 
-
-http://38.43.150.123:8000/play/a041/index.m3u8
-
-
-#EXTINF:-1, DTVS 
-
-http://38.43.150.122:8000/play/a041/index.m3u8
-
-
-#EXTINF:-1, DTVS
-
-http://38.43.150.121:8000/play/a041/index.m3u8
-
-
-#EXTINF:-1, DTVS 
-
-http://38.43.150.121:8000/play/a041/index.m3u8
-
-
-#EXTINF:-1, DTVS 
-
-http://38.43.150.120:8000/play/a041/index.m3u8
-
-
 #EXTINF:-1, DTVS 
 
 http://209.45.77.121:8000/play/a03d
@@ -168,12 +83,12 @@ http://138.59.177.34:8000/play/a07k/index.m3u8
 
 #EXTINF:-1, LAS E 2
 
-http://154.94.0.221:4444/play/a0le/index.m3u8
+http://152.200.187.238:1010/play/a04w/index.m3u8
 
 
 #EXTINF:-1, LAS E 3
 
-http://45.167.253.253:4000/play/a010/index.m3u8
+http://147.135.124.6:26503/play/a054/index.m3u8
 
 
 #EXTINF:-1, Canal 7
@@ -181,9 +96,14 @@ http://45.167.253.253:4000/play/a010/index.m3u8
 http://45.167.253.253:4000/play/a00p/index.m3u8
 
 
-#EXTINF:-1, C5
+#EXTINF:-1, SSLL
 
-http://154.94.0.221:4444/play/a0ll/index.m3u8
+http://45.5.119.155:8000/play/a04e/index.m3u8
+
+
+#EXTINF:-1, SSLL
+
+http://168.228.194.32:48091/play/a0au/index.m3u8
 
 
 #EXTINF:-1, C5
@@ -191,9 +111,14 @@ http://154.94.0.221:4444/play/a0ll/index.m3u8
 http://45.167.253.253:4000/play/a016/index.m3u8
 
 
-#EXTINF:-1, TDN
+#EXTINF:-1, TDN US
 
 http://45.189.148.24:8000/play/a00k/index.m3u8
+
+
+#EXTINF:-1, TDN US
+
+http://168.228.194.32:48091/play/Z76/index.m3u8
 
 
 #EXTINF:-1, TDN
@@ -255,6 +180,20 @@ http://201.159.113.219:49000/play/a04x/index.m3u8
 
 http://45.169.39.98:8585/play/a089/index.m3u8
 
+
+#EXTINF:-1, DAZN LL
+
+http://163.172.57.223:8000/play/a00a
+
+
+#EXTINF:-1, Movistar LL
+
+http://163.172.57.223:8000/play/a006
+
+
+#EXTINF:-1, DAZN F1
+
+http://163.172.57.223:8000/play/a00d
 
 
 
