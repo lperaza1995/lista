@@ -131,6 +131,16 @@ http://200.52.148.194:8000/play/a07d/index.m3u8
 http://190.92.7.19:8000/play/a05d/index.m3u8
 
 
+#EXTINF:-1, TDN
+
+http://181.209.173.10:9019/play/a05s/index.m3u8
+
+
+#EXTINF:-1, TDN US
+
+http://181.189.246.86:58004/play/a00m/index.m3u8
+
+
 #EXTINF:-1, CH Vision
 
 http://45.70.201.252:8889/play/a00o/index.m3u8
