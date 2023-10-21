@@ -116,6 +116,11 @@ http://200.12.37.158:8001/play/a02k
 http://200.12.37.158:8001/play/19
 
 
+#EXTINF:-1, SSLL
+
+http://45.5.117.172:8100/play/a05s/index.m3u8
+
+
 #EXTINF:-1, C5
 
 http://45.167.253.253:4000/play/a016/index.m3u8
@@ -154,6 +159,11 @@ http://181.209.173.10:9019/play/a05s/index.m3u8
 #EXTINF:-1, TDN HD
 
 http://200.12.37.158:8001/play/14
+
+
+#EXTINF:-1, TDN HD
+
+http://45.5.117.172:8100/play/a05p/index.m3u8
 
 
 #EXTINF:-1, TDN US
