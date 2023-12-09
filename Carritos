@@ -108,7 +108,12 @@ http://181.78.101.55:56903/play/a0bg/index.m3u8
 
 #EXTINF:-1, SSLL
 
-http://45.5.119.155:8000/play/a04e/index.m3u8
+http://45.5.119.155:8090/play/a04e/index.m3u8
+
+
+#EXTINF:-1, SSLL
+
+http://181.78.105.146:2000/play/a08m/index.m3u8
 
 
 #EXTINF:-1, SSLL
@@ -119,21 +124,6 @@ http://168.228.194.32:48091/play/a0au/index.m3u8
 #EXTINF:-1, SSLL
 
 http://181.78.105.146:2000/play/a08m/index.m3u8
-
-
-#EXTINF:-1, SSLL
-
-http://200.12.37.158:8001/play/a02k
-
-
-#EXTINF:-1, SSLL
-
-http://200.12.37.158:8001/play/19
-
-
-#EXTINF:-1, SSLL
-
-http://45.5.117.172:8100/play/a05s/index.m3u8
 
 
 #EXTINF:-1, C5
