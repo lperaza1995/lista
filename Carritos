@@ -156,6 +156,24 @@ http://38.96.178.201/live/CBSSports/index.m3u8
 http://38.96.178.201/live/CBS/index.m3u8
 
 
+#EXTINF:-1, TNT
+
+http://177.128.113.8:1/play/a080
+
+
+#EXTINF:-1, TNT 
+
+http://177.128.113.8:2/play/a080
+
+
+#EXTINF:-1, TNT
+
+http://181.78.105.146:8800/play/a060
+
+
+
+
+
 
 
 
